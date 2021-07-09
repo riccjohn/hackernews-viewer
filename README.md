@@ -1,5 +1,7 @@
 # hackernews-viewer
 
+[![riccjohn](https://circleci.com/gh/riccjohn/hackernews-viewer.svg?style=svg)](https://app.circleci.com/pipelines/github/riccjohn/hackernews-viewer)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
